@@ -1,0 +1,12 @@
+.card {
+    padding: 1.5rem;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1.25rem;
+    color: var(--text-primary);
+    border-bottom: 1px solid var(--surface-border);
+    padding-bottom: 0.75rem;
+}
