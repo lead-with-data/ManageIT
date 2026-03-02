@@ -12,7 +12,7 @@ The application is divided into two parts:
 
 ---
 
-## 🎨 Frontend (React)
+##  Frontend (React)
 
 The frontend uses React 18 and a custom CSS design without heavy UI libraries.
 
@@ -24,7 +24,7 @@ The frontend uses React 18 and a custom CSS design without heavy UI libraries.
 
 ---
 
-## ⚙️ Backend (Django REST Framework)
+##  Backend (Django REST Framework)
 
 The backend is organized into four main Django apps, mapping directly to the application's core functionality.
 
@@ -45,7 +45,7 @@ The backend is organized into four main Django apps, mapping directly to the app
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Start the Backend
 Navigate to the `Backend` folder, activate the virtual environment, and run the Django server:
