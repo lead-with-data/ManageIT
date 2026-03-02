@@ -1,7 +1,10 @@
 # ManageIT
 
 # Demo
-[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1eE-W2bCUHtQcIJDJdUHmfqd-H_14UPmz/view?usp=drive_link)
+# Project Demo
+[![Watch the video](https://raw.githubusercontent.com/gauravghongde/social-icons/master/png/color/video-play.png)](https://drive.google.com/file/d/1eE-W2bCUHtQcIJDJdUHmfqd-H_14UPmz/view?usp=drive_link)
+
+[Click here to watch the demo video]
 
 ManageIT is a project management application designed to organize teams, projects, sprints, and tasks.
 
