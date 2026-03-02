@@ -8,7 +8,7 @@ ManageIT is a project management application designed to organize teams, project
 
 The application is divided into two parts:
 * **Frontend**: A single-page application built with React and Vite (generated via AI).
-* **Backend**: A custom-built REST API using Django REST Framework (created by the developer).
+* **Backend**: A custom-built REST API using Django REST Framework (I created this).
 
 ---
 
